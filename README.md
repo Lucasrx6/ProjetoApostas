@@ -1,7 +1,7 @@
 # PROJETO C#
 
 ## Objetivo
-Aprimorar a lógica de programação utilizando as técnologicas C# e .NET.
+Aprimorar a lógica de programação utilizando as técnologicas C# e .NET, com foco em laços de repetição em IF-ELSE e DO-WHILE.
 
 
 ## Tecnologias Utilizadas
