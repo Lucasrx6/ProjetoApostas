@@ -10,6 +10,7 @@ Aprimorar a lógica de programação utilizando as técnologicas C# e .NET.
 
 ## Conteudo
 Atividades e desafios de programação simples, intermédiarios e avançados com suas respectivas soluções.
+O conteudo do Código pode ser verificado no arquivo program.cs
 
 ## Prints
 ### Tela Inicial
