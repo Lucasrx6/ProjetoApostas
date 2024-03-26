@@ -48,7 +48,11 @@ O conteudo do Código pode ser verificado no arquivo program.cs
 ### Menu Saque/Depósito
 ![image](https://github.com/Lucasrx6/ProjetoApostas/assets/86980974/5e5091fc-3ad6-4891-8145-ae23d191dac3)
 1) Saque - Opção onde é diminuido o valor do saldo do usuário.
-2) Depósito - Opção que acrescenta o valor ao saldo do usuário.
+   ![image](https://github.com/Lucasrx6/ProjetoApostas/assets/86980974/da0d4be6-f7e0-44b7-bcba-2c2dc3f6c857)
+
+3) Depósito - Opção que acrescenta o valor ao saldo do usuário.
+   ![image](https://github.com/Lucasrx6/ProjetoApostas/assets/86980974/7681c228-ae38-4911-98d9-b60186b293ad)
+
 0) Voltar - volta ao menu anterior
 
 
