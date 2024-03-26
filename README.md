@@ -30,6 +30,8 @@ Atividades e desafios de programação simples, intermédiarios e avançados com
 ### Menu Loterias 
 ![image](https://github.com/Lucasrx6/ProjetoApostas/assets/86980974/2b8eb734-a94b-4f4a-807b-5040cd744721)
 1) Tentar a sorte - O usuário pode digitar um numero entre 1000 e 9999 para tentar ganhar o premio
+   ![image](https://github.com/Lucasrx6/ProjetoApostas/assets/86980974/f5ca5f53-4c0c-4013-8633-af06cdccca98)
+
 0) Voltar - volta ao menu anterior
 
 ### Menu Raspadinhas
